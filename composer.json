@@ -7,7 +7,7 @@
         "NELC Saudi"
     ],
     "homepage": "https://github.com/nelc/laravel-nelc-xapi-integration",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
