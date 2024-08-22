@@ -32,7 +32,7 @@ Register the `NelcXapiServiceProvider` in your Laravel project. Open the `config
         * Package Service Providers...
     */
     // Other providers...
-    AlSaloul\LaravelNelcXapiIntegration\NelcXapiServiceProvider::class,
+    Nelc\LaravelNelcXapiIntegration\NelcXapiServiceProvider::class,
 ])->toArray(),
 ```
 
