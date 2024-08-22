@@ -17,7 +17,7 @@ cd path/to/your/laravel-project
 You can install this library using Composer. Run the following command:
 
 ```bash
-composer require nelc/laravel-nelc-xapi-integration
+composer require al-saloul/laravel-nelc-xapi-integration
 ```
 
 ## Step 3: Register the ServiceProvider
